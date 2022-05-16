@@ -1,2 +1,2 @@
 # FigureBed
-图窗
+图床
